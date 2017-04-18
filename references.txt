@@ -1,0 +1,11 @@
+Angular 2     --> https://angular.io/
+node js       --> https://www.youtube.com/watch?v=fLZ3L9MIXAQ&index=1&list=PLpOqH6AE0tNjx0SzNvlsP9-JGJ0zmuFnS
+Express       --> http://expressjs.com/
+mongodb       --> https://docs.mongodb.com/
+              --> https://www.youtube.com/watch?v=WH5GgHaEy7E
+              
+mongoose      --> http://mongoosejs.com/
+ejs           --> https://www.npmjs.com/package/ejs
+              --> https://scotch.io/tutorials/use-ejs-to-template-your-node-application
+              
+Observables   --> http://academia-binaria.com/comunicaciones-http-observables-con-angular2/
